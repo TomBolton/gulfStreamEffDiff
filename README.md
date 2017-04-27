@@ -6,4 +6,4 @@ Python scripts to calculate the effective diffusivity (Nakamura, 1996; Shuckburg
 passive tracer within the Gulf Stream jet extension. The time-mean, inter-annual variability, and weekly 
 composites, of the effective diffusivity are calculated and plotted in effDiffMain.py.
 
-![alt text](https://github.com/TomBolton/gulfStreamEffDiff/gulfStreamPassiveTracer.png) 
+![alt text](https://github.com/TomBolton/gulfStreamEffDiff/blob/master/gulfStreamPassiveTracer.png) 
